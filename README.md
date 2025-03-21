@@ -10,3 +10,8 @@ Nota: Esta documentación aborda exclusivamente la implementación del backend d
 El frontend es responsable de interactuar con esta API y presentar la información de manera amigable para el usuario. La integración entre el frontend y el backend es esencial para ofrecer una experiencia completa.
 
 Documentación completa por medio del siguiente LINK: https://documenter.getpostman.com/view/29903649/2s9YkgERfW
+
+# 🤝 Colaboradores
+Juan Pablo Ramírez Gutiérrez
+Santiago Andrés Candanoza
+Carlos Enrique Aroca Escorcia
